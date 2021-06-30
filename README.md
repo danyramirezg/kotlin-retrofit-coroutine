@@ -1,5 +1,5 @@
 # kotlin-retrofit-coroutines
-This app retrieves data from a Dog API
+This app retrieves data from a Dog API using Retrofit
 
 ## Images
 
@@ -7,6 +7,7 @@ This app retrieves data from a Dog API
 
 ---
 
-## Author
-* **Daniela Ramirez Gomez** - [danyramirezg](https://github.com/danyramirezg)
+## Resources:books:
+
+* [Tutorial Retrofit]("https://www.youtube.com/watch?v=aQP-mUGWh1U&t=930s")
 
