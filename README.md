@@ -9,5 +9,5 @@ This app retrieves data from a Dog API using Retrofit
 
 ## Resources:books:
 
-* [Tutorial Retrofit]("https://www.youtube.com/watch?v=aQP-mUGWh1U&t=930s")
+* [Tutorial Retrofit](https://www.youtube.com/watch?v=aQP-mUGWh1U&t=930s)
 
